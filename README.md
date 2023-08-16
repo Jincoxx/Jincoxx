@@ -44,8 +44,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jincoxx&theme=dark&show_icons=true&count_private=true" />
+
+
+  <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jincoxx&show_icons=true&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jincoxx&theme=dark&hide_border=false" /> 
 </td>

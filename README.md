@@ -97,12 +97,12 @@
 </div>
 
 <!--icons and links-->
- <p aling="center">
+ <ul aling="center">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"/>
             <a href="https://www.linkedin.com/in/juan-pablo-reinoso-martínez-3a7593229/" target="_blank">Linkdin<i class="ci ci-linkedin ci-5x"></i></a>
             <a href="https://discord.gg/jincoxx#6321" target="_blank"><i class="ci ci-discord ci-5x"></i>Discord</a>
             <a href="https://www.facebook.com/Jiinco/" target="_blank"><i class="ci ci-facebook ci-5x"></i>Facebook</a>
-    </p>
+    </ul>
 <!--profile visit count-->
 <div align="center">
   

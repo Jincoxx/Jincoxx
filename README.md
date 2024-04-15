@@ -99,10 +99,9 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/juan-pablo-reinoso-martínez-3a7593229/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discord.gg/jincoxx#6321" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" alt="discord" height="50" width="50" /></a>
-<a href="https://www.facebook.com/Jiinco/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="facebook" height="50" width="50" /></a>
-  
+<a href="https://www.linkedin.com/in/juan-pablo-reinoso-martínez-3a7593229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css" <i class="ci ci-linkedin ci-5x"></i> </a>
+<a href="https://discord.gg/jincoxx#6321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css" <i class="ci ci-discord ci-5x"></i> </a>
+<a href="https://www.facebook.com/Jiinco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css" <i class="ci ci-facebook ci-5x"></i> </a>
 </p>
 
 

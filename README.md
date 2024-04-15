@@ -100,9 +100,9 @@
 <!--icons and links-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"/>
  <p align="center">
-        <a href="https://www.linkedin.com/in/juan-pablo-reinoso-martínez-3a7593229/" target="_blank" class="ci-linkedin"></a>
-        <a href="https://discord.gg/jincoxx#6321" target="_blank" class="ci-discord"></a>
-        <a href="https://www.facebook.com/Jiinco/" target="_blank" class="ci-facebook"></a>
+        <a href="https://www.linkedin.com/in/juan-pablo-reinoso-martínez-3a7593229/" target="_blank" class="ci-linkedin ci-5x"></a>
+        <a href="https://discord.gg/jincoxx#6321" target="_blank" class="ci-discord ci-5x"></a>
+        <a href="https://www.facebook.com/Jiinco/" target="_blank" class="ci-facebook ci-5x"></a>
  </p>
 
 <!--profile visit count-->

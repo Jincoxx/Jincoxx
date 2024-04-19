@@ -36,8 +36,6 @@
 
 <!--Intro end-->
 
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
     <!--- stats (start) -->
@@ -55,6 +53,7 @@
 </td>
 </tr>
 </table>
+</p>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
@@ -101,3 +100,4 @@
     </p>
 <!--profile visit count-->
 <div align="center">
+

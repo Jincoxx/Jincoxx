@@ -1,6 +1,3 @@
-Lamento la confusión. Parece que hubo un error al intentar mostrar la animación de la serpiente en el código proporcionado. Vamos a corregirlo. Aquí está el código corregido:
-
-```html
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

@@ -2,14 +2,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h1 style="display: inline-block"> <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> Hi 👋, I'm Jp</h1></summary> 
+<div id="user-content-toc" align="center">
+    <ul style="list-style-type: none; padding: 0;">
+        <li><img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height="25" width="160"></li>
+        <li><h1 style="margin-top: 0;">Hi 👋, I'm Jp</h1></li>
     </ul>
 </div>
 
 <!--snake animation-->
-<img src="https://raw.githubusercontent.com/Chaitanya0202/Chaitanya0202/master/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Chaitanya0202/Chaitanya0202/master/snake.svg" alt="" />
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">

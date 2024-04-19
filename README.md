@@ -9,9 +9,12 @@
 </div>
 
 <!--snake animation-->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Chaitanya0202/Chaitanya0202/master/snake.svg" alt="Snake animation" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">

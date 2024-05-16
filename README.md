@@ -27,7 +27,7 @@
 <!--Intro start-->
 <ul>
     <li>🔭 I’m currently working on <strong>personal projects learned in online classes.</strong></li>
-    <li>🌱 I’m currently learning <strong>web development in online classes at Platzi and Alura Latam.</strong></li>
+    <li>🌱 I’m finish learning <strong>web development in online classes at Platzi and Alura Latam.</strong></li>
     <li>💻 I have a keen interest in learning and working with programming languages. So, I'm focusing on <strong>FrontEnd development.</strong></li>
     <li>📫 Feel free to reach me out at <strong>carnagechu@gmail.com</strong>.</li>
 </ul>

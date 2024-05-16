@@ -27,6 +27,7 @@
 <!--Intro start-->
 <ul>
     <li>🔭 I’m currently working on <strong>personal projects learned in online classes.</strong></li>
+    <li>👾 I continued training in night classes on software analysis and development at the SENA
     <li>🌱 I did my <strong>web development studies in online classes at Platzi and Alura Latam.</strong></li>
     <li>💻 I have a keen interest in learning and working with programming languages. So, I'm focusing on <strong>FrontEnd development.</strong></li>
     <li>📫 Feel free to reach me out at <strong>carnagechu@gmail.com</strong>.</li>

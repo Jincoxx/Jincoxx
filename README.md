@@ -25,7 +25,7 @@ Soy un apasionado desarrollador y estudiante de Análisis y Desarrollo de Softwa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,java,git,github,vscode&perline=9" alt="Mis Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,java,git,github,vscode,docker,mongodb,redis&perline=9" alt="Mis Tecnologías" />
   </a>
 </p>
 

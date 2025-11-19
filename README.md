@@ -37,9 +37,7 @@ Soy un apasionado desarrollador y estudiante de Análisis y Desarrollo de Softwa
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jincoxx&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Jincoxx en GitHub" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jincoxx&layout=compact&theme=radical" alt="Lenguajes más usados por Jincoxx" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jincoxx&theme=radical" alt="Estadísticas de racha de Jincoxx" />
-</p>
+
 
 
 ---

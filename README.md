@@ -40,9 +40,7 @@ Soy un apasionado desarrollador y estudiante de Análisis y Desarrollo de Softwa
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jincoxx&theme=radical" alt="Estadísticas de racha de Jincoxx" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jincoxx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub" />
-</p>
+
 
 ---
 

@@ -13,7 +13,8 @@
 
 ### Sobre Mí 👨‍💻
 
-Tecnólogo en Análisis y Desarrollo de Software. Me he formado en Platzi, Alura Latam y el **SENA**, lo que me ha brindado
+Tecnólogo en Análisis y Desarrollo de Software. 
+Me he formado en Platzi, Alura Latam y el **SENA**, lo que me ha brindado
 una base sólida en desarrollo web, buenas prácticas y pensamiento orientado a la solución de problemas.
 
 - 🔭 Me enfoco en escribir código limpio, aprender nuevas tecnologías y construir proyectos que generen valor real.

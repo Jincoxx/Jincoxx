@@ -13,10 +13,11 @@
 
 ### Sobre Mí 👨‍💻
 
-Soy un apasionado desarrollador y estudiante de Análisis y Desarrollo de Software. Mi formación en plataformas como **Platzi** y **Alura Latam**, junto con mi actual titulo de tecnologo en analisis y desarrollo de software en el **SENA**, me ha dado una base sólida en desarrollo web.
+Tecnólogo en Análisis y Desarrollo de Software. Me he formado en Platzi, Alura Latam y el **SENA**, lo que me ha brindado
+una base sólida en desarrollo web, buenas prácticas y pensamiento orientado a la solución de problemas.
 
-- 🔭 Actualmente estoy enfocado en **fortalecer mis habilidades en React** y construir proyectos personales innovadores.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para mantenerme actualizado en el mundo del desarrollo.
+- 🔭 Me enfoco en escribir código limpio, aprender nuevas tecnologías y construir proyectos que generen valor real.
+- 🌱 Actualmente sigo fortaleciendo mis habilidades en desarrollo frontend/backend, arquitectura de software y herramientas modernas del ecosistema JavaScript.
 - 💬 ¡Hablemos! Si tienes alguna pregunta o proyecto en mente, no dudes en contactarme.
 
 ---
